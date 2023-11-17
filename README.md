@@ -10,3 +10,12 @@ Start by importing the project on Replit.
 Next, you will see a .replit window.
 Select Use run command and click the Done button.
 When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your project's source code in the GitHub Link field.
+
+### Solution Link: https://headerparser-microservice.angelique09.repl.co/
+### GitHub Link: https://github.com/MaryAngelique/Request-Header-Parser-Microservice
+
+## Tests
+- Passed:You should provide your own project, not the example URL.
+- Passed:A request to /api/whoami should return a JSON object with your IP address in the ipaddress key.
+- Passed:A request to /api/whoami should return a JSON object with your preferred language in the language key.
+- Passed:A request to /api/whoami should return a JSON object with your software in the software key.
